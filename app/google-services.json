@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520959291406",
+    "project_id": "chatapp-f0893",
+    "storage_bucket": "chatapp-f0893.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520959291406:android:17086fac4eca5075cacc5f",
+        "android_client_info": {
+          "package_name": "me.woocheol.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520959291406-vonqurufp6dbr1eraak1o1okld56d7ho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB34D-YlZ28xOPvf2JU3RKU-I9mC7z51oA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520959291406-vonqurufp6dbr1eraak1o1okld56d7ho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
